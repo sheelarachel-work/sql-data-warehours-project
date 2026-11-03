@@ -31,3 +31,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
 
+
+## 🌟 About me
+
+Hi, I'm **Rachel**, building projects in data analytics and data engineering.
