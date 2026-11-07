@@ -80,7 +80,6 @@ BEGIN
         PRINT '>> Inserting Data Into: silver.crm_prd_info';
         INSERT INTO silver.crm_prd_info (
             prd_id,
-            cat_id,
             prd_key,
             prd_nm,
             prd_cost,
